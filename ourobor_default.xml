@@ -4,11 +4,11 @@
   <remote  name="github"
            fetch="https://github.com" />
 
-  <remote  name="gzosp"
-           fetch="https://github.com/GZOSP" />
+  <remote  name="ourobor"
+           fetch="https://github.com/Ourobor-OS" />
 
   <default revision="8.1"
-           remote="gzosp"
+           remote="ourobor"
            sync-f="true"
            sync-c="true"
            sync-j="8" />
